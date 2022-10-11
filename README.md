@@ -18,6 +18,15 @@ Some of the technologies I love getting involved with include:
 
 <br />
 
+### Connect with me:
+
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)](https://github.com/Sajeelzafar)&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/SajeelZafar6)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/sajeelzafar/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/sajeelzafar007/)&nbsp;
+
+<br />
+
 
 
 [![Sajeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajeelzafar&show_icons=true)](https://github.com/Sajeelzafar/github-readme-stats)
