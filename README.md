@@ -22,7 +22,9 @@ Some of the technologies I love getting involved with include:
 
 [![Sajeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajeelzafar&show_icons=true)](https://github.com/Sajeelzafar/github-readme-stats)
 
----
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSajeelzafar&countColor=%23263759)
+
 <!---
 Sajeelzafar/Sajeelzafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
